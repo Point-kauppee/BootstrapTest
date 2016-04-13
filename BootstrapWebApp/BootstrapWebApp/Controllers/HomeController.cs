@@ -31,5 +31,9 @@ namespace BootstrapWebApp.Controllers
         {
             return View();
         }
+        public ActionResult Modal()
+        {
+            return View();
+        }
     }
 }
